@@ -95,7 +95,7 @@ selected_to_plot = ["SREBF1", "FASN", "SCD"]
 4. Run the script:
 
 ```bash
-python simulation_expression_yaxis_constant.py
+python simulation_expression.py
 ```
 
 Output:
